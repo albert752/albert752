@@ -25,14 +25,14 @@ During my degree and master's, I was awarded honors in various subjects includin
 ## IT Risk Advisory and Cybersecurity Senior Consultant
 Deloitte · Full-time \
 Jan 2022 - Present \
-Barcelona, Catalonia, Spain \
+Barcelona, Catalonia, Spain
 
 * * * 
 
 ## Cybersecurity Analyst
 NESPRA Smart Devices · Full-time \
 Jul 2021 - Jan 2022 · 7 mos \
-As part of the Cloud team, my responsibilities are:
+As part of the Cloud team, my responsibilities where:
 - Implementing security features and protocols in an AWS environment.
 - Asses possible threads to all the company services.
 - Developing and implementing various machine learning algorithms for data analytics purposes using SageMaker and other AWS services.
