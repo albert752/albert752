@@ -1,0 +1,83 @@
+baseURL: https://albertazemar.com
+languageCode: en-us
+title: Albert Azemars' Blog
+theme: ["PaperMod", "hugo-shortcode-gallery"]
+
+params:
+    description: "Albert Azemar's Blog"
+    author: Albert Azemar i Rovira
+
+    # Home
+    homeInfoParams:
+        Title: Welcome to my blog! 👋
+        Content: >
+            - This is the right place to discover more about me. Here I share my thoughts, opinions, projects and experiences.
+            Besides that, you’ll find content on topics like chess, computer programming, music, horology and much more.
+
+            - I’m sure that you'll find something interesting or at least have a good time! 😊
+
+    # Start page icons
+    socialIcons: 
+        - name: "twitter"
+          url: "https://twitter.com/AlbertAzemar"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/albert-azemar-i-rovira"
+        - name: "github"
+          url: "https://github.com/albert752"
+        # - name: "instagram"
+        #   url: "https://www.instagram.com/albertazemar/"
+        - name: "RsS"
+          url: "index.xml"    
+    # Search functionality
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+    
+    ShowBreadCrumbs: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary for search
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+#imaging:
+#     includeFields: ".*"
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: About Me
+                  url: about
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+                - name: Series
+                  url: series/
+                  weight: 10
+                - name: Gallery
+                  url: gallery/
+                  weight: 10
