@@ -1,5 +1,5 @@
 ---
-title: "TEST About Me 👨‍💻"
+title: "About Me 👨‍💻"
 summary: About
 url: "/about/"
 hidemeta : true
