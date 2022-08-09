@@ -75,7 +75,7 @@ Now his choices were few. He saw my queen infiltrating on the seventh. He tried 
 
 And we arrive at the following position:
 
-![Black to play](diagram01.svg)
+![Black to play](diagram02.svg)
 
 With the white king surrounded by its pieces, the smell of the smothered mate was there. Also, you could see the alignment of the queen and the king on the e file. Very juicy for a pin. After several minutes of thinking, I decided to go with:
 
