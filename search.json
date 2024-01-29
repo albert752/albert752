@@ -1,11 +1,19 @@
 [
   
     {
-      "title"    : "So, the blog is back",
+      "title"    : "Book Review: The Monk Who Sold His Ferrari",
       "category" : "",
       "tags"     : "featured",
+      "url"      : "/book-review-the-monk-who-sold-his-ferrari/",
+      "date"     : "2024-01-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "So, the blog is back",
+      "category" : "",
+      "tags"     : "spotlight",
       "url"      : "/so-the-blog-is-back/",
-      "date"     : "2023-01-04 00:00:00 +0100"
+      "date"     : "2024-01-04 00:00:00 +0100"
     } ,
   
     {
@@ -27,7 +35,7 @@
     {
       "title"    : "A Night at the Opera: Così Fan Tutte",
       "category" : "",
-      "tags"     : "spotlight",
+      "tags"     : "",
       "url"      : "/a-night-at-the-opera-cosi-fan-tutte/",
       "date"     : "2022-04-22 00:00:00 +0200"
     } ,
