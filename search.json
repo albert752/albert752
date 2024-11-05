@@ -1,9 +1,17 @@
 [
   
     {
-      "title"    : "Book Review: The Monk Who Sold His Ferrari",
+      "title"    : "Long time, no see: Life update",
       "category" : "",
       "tags"     : "featured",
+      "url"      : "/long-time-no-see/",
+      "date"     : "2024-11-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Book Review: The Monk Who Sold His Ferrari",
+      "category" : "",
+      "tags"     : "spotlight",
       "url"      : "/book-review-the-monk-who-sold-his-ferrari/",
       "date"     : "2024-01-29 00:00:00 +0100"
     } ,
@@ -27,7 +35,7 @@
     {
       "title"    : "Francis Albert Sinatra, My Way and all that jazz",
       "category" : "",
-      "tags"     : "spotlight",
+      "tags"     : "",
       "url"      : "/francis-albert-sinatra-my-way-and-all-that-jazz/",
       "date"     : "2022-05-17 00:00:00 +0200"
     } ,
